@@ -56,5 +56,28 @@ pre{
   margin-left: 16px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.4);
 }
+@media (min-width:320px) and (max-width:600px) {
+  .mas{
+  width: 100%;
+  height: 60px;
+  
+  background-color: #036;
+}
+.mas h2{
+  font-size: 16px;
+}
+li a{
+  display: block;
+  padding: 10px 10px;
+  font-size: 1rem;
+  text-decoration: none;
+  color: #fff;
+  
+}
+  pre{
+    width: 300px;
+    margin-left:0;
+  }
+}
  
  
