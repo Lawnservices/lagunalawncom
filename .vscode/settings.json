@@ -1,0 +1,10 @@
+{
+  "css.styleSheets": [
+    "style.css",
+    "style.css",
+    "${music/index.html}.css"
+    
+  ],
+   
+}
+ 
