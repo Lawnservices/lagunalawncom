@@ -22,12 +22,14 @@ header{
 .navbar{
   width: 100%;
   height: auto;
+   
 }
 header .navbar ul{
  position: relative;
  overflow: hidden;
  display: block;
  list-style-type: none;
+  
 }
 li{
   float: left;
