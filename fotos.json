@@ -1,16 +1,63 @@
 {
   "imagenes":[
-  
+  {
+    "id": 2,
+    "nombre": "galeria1.jpg",
+    "url": "https://lagunalawnservice.com/img/galeria11.jpg",
+    "descripcion": "esta foto es de jardin"
+  },
   {
     "id":1,
     "nombre":"galeria1.jpg",
-    "url":"https://lagunalawn.com/img/galeria1.jpg",
+    "url":"https://lagunalawn.com/img/galeria3.jpg",
     "descripcion":"esta foto es de jardin"
   },
 {
   "id": 2,
   "nombre": "galeria1.jpg",
-  "url": "https://lagunalawn.com/img/galeria2.jpg",
+  "url": "https://lagunalawn.com/img/galeria4.jpg",
+  "descripcion": "esta foto es de jardin"
+},
+{
+  "id": 2,
+  "nombre": "galeria1.jpg",
+  "url": "https://lagunalawn.com/img/galeria7.jpg",
+  "descripcion": "esta foto es de jardin"
+},
+{
+  "id": 2,
+  "nombre": "galeria1.jpg",
+  "url": "https://lagunalawn.com/img/galeria6.jpg",
+  "descripcion": "esta foto es de jardin"
+},
+{
+  "id": 2,
+  "nombre": "galeria1.jpg",
+  "url": "https://lagunalawn.com/img/galeria10.jpg",
+  "descripcion": "esta foto es de jardin"
+},
+{
+  "id": 2,
+  "nombre": "galeria1.jpg",
+  "url": "https://lagunalawn.com/img/galeria10.jpg",
+  "descripcion": "esta foto es de jardin"
+},
+{
+  "id": 2,
+  "nombre": "galeria1.jpg",
+  "url": "https://lagunalawn.com/img/galeria11.jpg",
+  "descripcion": "esta foto es de jardin"
+},
+{
+  "id": 2,
+  "nombre": "galeria1.jpg",
+  "url": "https://lagunalawn.com/img/galeria9.jpg",
+  "descripcion": "esta foto es de jardin"
+},
+{
+  "id": 2,
+  "nombre": "galeria1.jpg",
+  "url": "https://lagunalawn.com/img/galeria12.jpg",
   "descripcion": "esta foto es de jardin"
 }
 
