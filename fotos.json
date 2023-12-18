@@ -1,0 +1,19 @@
+{
+  "imagenes":[
+  
+  {
+    "id":1,
+    "nombre":"galeria1.jpg",
+    "url":"https://lagunalawn.com/img/galeria1.jpg",
+    "descripcion":"esta foto es de jardin"
+  },
+{
+  "id": 2,
+  "nombre": "galeria1.jpg",
+  "url": "https://lagunalawn.com/img/galeria2.jpg",
+  "descripcion": "esta foto es de jardin"
+}
+
+]
+}
+ 
