@@ -4,7 +4,7 @@ body{
 }
 .mas{
   width: 100%;
-  height: 160px;
+  height: 100px;
   background-color: #343a40;
 }
 .mas h2{
@@ -12,40 +12,6 @@ body{
   color: #fff;
   padding: 16px 16px;
   font-size:30px;
-}
- 
-header{
-  background-color:#1546 ;
-  width: 100%;
-  height:auto;
-}
-.navbar{
-  width: 100%;
-  height: auto;
-   
-}
-header .navbar ul{
- position: relative;
- overflow: hidden;
- display: block;
- list-style-type: none;
-  
-}
-li{
-  float: left;
-}
-li a{
-  display: block;
-  padding: 16px 16px;
-  font-size: 20px;
-  text-decoration: none;
-  color: #fff;
-  
-}
-li a:hover{
-  border-bottom: 2px solid #fff;
-  color: #414a47;
-  transition: all 0.4s;    
 }
   html {
             overflow-x: none;
@@ -97,8 +63,8 @@ li a:hover{
         .presente {
             max-inline-size: 100%;
             block-size: auto;
-            aspect-ratio: 2/1;
-            object-fit: contain;
+            
+            
         }
         
         .orario {
@@ -113,21 +79,9 @@ li a:hover{
             font-weight: 800;
         }
         
-        .boton {
-            width: 160px;
-            background-color: #154;
-            color: #fff;
-            padding: 14px 17px;
-            border: none;
-            transition: all 2s ease-in-out;
-        }
         
-        .boton:hover {
-            background-color: #fff;
-            color: #154;
-            border: 2px solid green;
-            transition: all 2s ease-in-out;
-        }
+        
+       
         
         h1 {
             color: green;
@@ -157,7 +111,7 @@ li a:hover{
         /*style galery*/
         
         .galeria {
-            margin-top: 60px;
+            margin-top: 10px;
             display: grid;
             grid-template-columns: repeat(3, 1fr);
             grid-auto-rows: 260px;
